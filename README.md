@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom-Draper
-- 👀 I’m interested in Python, artificial intelligence, machine learning and data visualisation.
 - 🌱 I’m currently undertaking a Masters in Computer Science in my fourth year at University.
+- 👀 I’m interested in Python, artificial intelligence, machine learning and data visualisation.
 - 🌐 Personal website https://tomdraper.netlify.app/
 
 <!---
