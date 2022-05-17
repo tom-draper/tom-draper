@@ -2,8 +2,8 @@
 - 🌱 I’m currently undertaking a Masters in Computer Science in my final year.
 - 👀 I’m interested in Python, data visualisation, machine learning and interface design.
 - 🌐 Personal website: https://tomdraper.dev/
-- 🌐 Premier league statistics dashboard: http://pldashboard.com/
-- 🌐 My programming and maths courses: https://notion-courses.netlify.app/courses
+- 📈 Premier league statistics dashboard: http://pldashboard.com/
+- 📖 My programming and maths courses: https://notion-courses.netlify.app/courses
 
 
 <!---
