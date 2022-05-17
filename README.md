@@ -3,6 +3,8 @@
 - 👀 I’m interested in Python, data visualisation, machine learning and interface design.
 - 🌐 Personal website: https://tomdraper.dev/
 - 🌐 Premier league statistics dashboard: http://pldashboard.com/
+- 🌐 My programming and maths courses: https://notion-courses.netlify.app/courses
+
 
 <!---
 Tom-Draper/Tom-Draper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
