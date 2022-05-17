@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom-Draper
 - 🌱 I’m currently undertaking a Masters in Computer Science in my fourth year at University.
-- 👀 I’m interested in Python, artificial intelligence, machine learning, and data visualisation.
+- 👀 I’m interested in Python, data visualisation, machine learning and interface design.
 - 🌐 Personal website: https://tomdraper.dev/
 - 🌐 Premier league statistics dashboard: http://pldashboard.com/
 
