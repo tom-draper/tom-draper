@@ -4,7 +4,7 @@
 #### Websites
 - 🌐 Personal website: https://tomdraper.dev/
 - 📈 Premier league statistics dashboard: http://pldashboard.com/
-- 📖 My programming and maths courses: https://notion-courses.netlify.app/courses
+- 📖 Programming and maths courses: https://notion-courses.netlify.app/courses
 
 
 <!---
