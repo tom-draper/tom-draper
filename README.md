@@ -4,7 +4,7 @@
 #### Websites
 - 🌐 Personal website:                    https://tomdraper.dev/
 - 📈 Premier league statistics dashboard: https://pldashboard.com/
-- 🟩 Array 3D visualiser:                 https://array-3d-viz.vercel.app/
+- 🟩 Array interactive 3D visualiser:                 https://array-3d-viz.vercel.app/
 - 🏘️ Pixel city builder:                  https://tom-draper.github.io/city-builder/
 - 📖 Programming and maths courses:       https://notion-courses.netlify.app/
 
