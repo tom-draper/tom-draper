@@ -1,6 +1,6 @@
 ### Hi, I'm Tom Draper
 - 🎓 I’m currently undertaking a Masters in Computer Science in my final year.
-- 👀 I’m interested in data visualisation, machine learning and interface design.
+- 👀 I’m interested in data visualisation, artificial intelligence and interface design.
 #### Websites
 - 🌐 Personal website:                    https://tomdraper.dev/
 - 📈 Premier league statistics dashboard: https://pldashboard.com/
