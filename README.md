@@ -1,5 +1,5 @@
 ### Hi, I'm Tom Draper
-- 🎓 I’m a recent graduate with a Masters in Computer Science.
+- 🎓 I’m a recent graduate with a Master's in Computer Science.
 - 👀 I’m interested in data visualisation, artificial intelligence and interface design.
 #### Websites
 - 🌐 Personal website:                    https://tomdraper.dev/
