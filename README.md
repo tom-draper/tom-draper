@@ -1,6 +1,6 @@
 ### Hi, I'm Tom Draper
 - 🎓 I’m a recent graduate with a Master's in Computer Science.
-- 👀 I’m interested in data visualisation, artificial intelligence and interface design.
+- 👀 I’m interested in artificial intelligence, data visualisation and data analysis.
 #### Websites
 - 🌐 Personal website:                    https://tomdraper.dev/
 - 📈 Premier league statistics dashboard: https://pldashboard.com/
