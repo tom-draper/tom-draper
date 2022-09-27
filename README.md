@@ -1,9 +1,9 @@
 ### Hi, I'm Tom Draper
 - 🎓 I’m a recent graduate with a Master's in Computer Science.
 - 👀 I’m interested in artificial intelligence, data visualisation and data analysis.
-- 💻 Python, Go and TypeScript
+- 💙 Python, Go and TypeScript
 #### Websites
-- 🌐 Personal website:                    https://tomdraper.dev/
+- 🌐 Portfolio website:                    https://tomdraper.dev/
 - 📈 Premier league statistics dashboard: https://pldashboard.com/
 - 🟩 Array interactive 3D visualiser:                 https://array-3d-viz.vercel.app/
 - 🏘️ Pixel city builder:                  https://tom-draper.github.io/city-builder/
