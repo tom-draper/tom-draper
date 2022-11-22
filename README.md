@@ -12,8 +12,3 @@
 - 📖 Programming and maths courses:       https://notion-courses.netlify.app/
 - 🟢 Blog:                                https://codedevblog.netlify.app/
 
-
-<!---
-Tom-Draper/Tom-Draper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
