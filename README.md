@@ -3,7 +3,7 @@
 - 👀 I have interests in artificial intelligence, simulation, data visualisation and data analysis.
 - 💙 Python, Go and TypeScript
 #### Websites
-- 🌐 Portfolio website:                    <a target="_blank" href="https://tomdraper.dev">https://tomdraper.dev/</a>
+- 🌐 Portfolio website:                    [https://tomdraper.dev](https://tomdraper.dev/){:target="_blank"}
 - 📊 Premier league statistics dashboard: https://pldashboard.com/
 - 🟩 Interactive 3D visualiser for arrays:                 https://array-3d-viz.vercel.app/
 - 📸 Code snippet screenshot builder: https://tom-draper.github.io/code-snippets/
