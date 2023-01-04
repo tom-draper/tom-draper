@@ -9,7 +9,6 @@
 - 📈 API Analytics: https://my-api-analytics.vercel.app
 - 📸 Code snippet screenshot builder: https://tom-draper.github.io/code-snippets
 - 🏘️ Pixel city builder:                  https://tom-draper.github.io/city-builder
-- 🪪 GitHub business card: https://tom-draper.github.io/github-business-card
 - ☁️ Digital sky generator: https://tom-draper.github.io/digital-sky
 - 📖 Programming and maths courses:       https://notion-courses.netlify.app
 - 🟢 Blog:                                https://codedevblog.netlify.app
