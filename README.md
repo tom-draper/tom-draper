@@ -1,6 +1,6 @@
 ### Hi, I'm Tom Draper
 - 🎓 I’m a software developer with a Master's in Computer Science.
-- 👀 I have interests in artificial intelligence, simulation, data visualisation and data analysis.
+- 👀 I have interests in artificial intelligence, simulation, data viz and data analysis.
 - 💙 Python, Go, TypeScript & Rust
 #### Websites
 - 🌐 Portfolio website:                    https://tomdraper.dev
