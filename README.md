@@ -4,8 +4,8 @@
 - 💙 Python, Go, TypeScript & Rust
 #### Websites
 - 🌐 Portfolio website:                    https://tomdraper.dev
-- 📊 Premier league dashboard: https://pldashboard.com
 - 📈 API Analytics: https://apianalytics.dev
+- 📊 Premier league dashboard: https://pldashboard.com
 - 🟩 Interactive 3D visualiser for arrays:                 https://array-3d-viz.vercel.app
 - 📸 Code snippet screenshot builder: https://tom-draper.github.io/code-snippets
 - 🏘️ Pixel city builder:                  https://tom-draper.github.io/city-builder
