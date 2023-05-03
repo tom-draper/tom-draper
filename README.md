@@ -3,7 +3,7 @@
 - 👀 I have interests in artificial intelligence, simulation, data viz and data analysis.
 - 🛠️ I'm often building dashboards and interactive visualizations.
 - 💙 Python, Go, TypeScript & Rust
-- 
+
 #### Websites
 - 🌐 Portfolio website:                    [tomdraper.dev](https://tomdraper.dev)
 - 📈 API Analytics: [apianalytics.dev](https://apianalytics.dev)
