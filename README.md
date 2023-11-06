@@ -5,7 +5,7 @@
 - 💙 Python, Go, TypeScript & Rust
 
 #### Websites
-- 🌐 Portfolio website:                          [tomdraper.dev](https://tomdraper.dev)
+- 🌐 Portfolio:                          [tomdraper.dev](https://tomdraper.dev)
 - 📈 API Analytics:                              [apianalytics.dev](https://apianalytics.dev)
 - 📊 Premier league dashboard:                   [pldashboard.com](https://pldashboard.com)
 - 🟩 Interactive 3D visualiser for arrays:       [array-3d-viz.vercel.app](https://array-3d-viz.vercel.app)
