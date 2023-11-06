@@ -13,6 +13,5 @@
 - 🏘️ Pixel city builder:                         [tom-draper.github.io/city-builder](https://tom-draper.github.io/city-builder)
 - 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app) 
 - ☁️ Digital sky generator:                       [tom-draper.github.io/digital-sky](https://tom-draper.github.io/digital-sky)  
-- 📖 Programming and maths courses:              [notion-courses.netlify.app](https://notion-courses.netlify.app)      
 - 🟢 Blog:                                       [codedevblog.netlify.app](https://codedevblog.netlify.app)
 
