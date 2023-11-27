@@ -13,5 +13,5 @@
 - 🏘️ Pixel city builder:                         [tom-draper.github.io/city-builder](https://tom-draper.github.io/city-builder)
 - 📸 Code snippet screenshot builder:            [tom-draper.github.io/code-snippets](https://tom-draper.github.io/code-snippets) 
 - 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app) 
-- 🟢 Blog:                                       [codedevblog.netlify.app](https://codedevblog.netlify.app)
+- 🟢 Blog:                                       [loglogblog.netlify.app](https://loglogblog.netlify.app)
 
