@@ -12,6 +12,7 @@
 - ☁️ Digital sky generator:                      [tom-draper.github.io/digital-sky](https://tom-draper.github.io/digital-sky)
 - 🏘️ Pixel city builder:                         [tom-draper.github.io/city-builder](https://tom-draper.github.io/city-builder)
 - 📸 Code snippet screenshot builder:            [tom-draper.github.io/code-snippets](https://tom-draper.github.io/code-snippets) 
-- 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app) 
+- 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app)
+- 🗑️ Visual binary analysis:                       [tom-draper.github.io/visual-binary-analysis](https://tom-draper.github.io/visual-binary-analysis)
 - 🟢 Blog:                                       [loglogblog.netlify.app](https://loglogblog.netlify.app)
 
