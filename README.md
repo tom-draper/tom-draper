@@ -11,6 +11,7 @@
 - 🟩 Interactive 3D visualiser for arrays:       [array-3d-viz.vercel.app](https://array-3d-viz.vercel.app)
 - ☁️ Digital sky generator:                      [tom-draper.github.io/digital-sky](https://tom-draper.github.io/digital-sky)
 - 🏘️ Pixel city builder:                         [tom-draper.github.io/city-builder](https://tom-draper.github.io/city-builder)
+- 🪙 Settle up:                                    [settleup.vercel.app](https://settleup.vercel.app/)
 - 📸 Code snippet screenshot builder:            [tom-draper.github.io/code-snippets](https://tom-draper.github.io/code-snippets) 
 - 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app)
 - 🗑️ Visual binary analysis:                       [tom-draper.github.io/visual-binary-analysis](https://tom-draper.github.io/visual-binary-analysis)
