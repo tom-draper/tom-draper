@@ -15,5 +15,4 @@
 - 📸 Code snippet screenshot builder:            [tom-draper.github.io/code-snippets](https://tom-draper.github.io/code-snippets) 
 - 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app)
 - 🗑️ Visual binary analysis:                       [tom-draper.github.io/visual-binary-analysis](https://tom-draper.github.io/visual-binary-analysis)
-- 🟢 Blog:                                       [loglogblog.netlify.app](https://loglogblog.netlify.app)
 
