@@ -1,7 +1,7 @@
 ### Hi, I'm Tom Draper
 - 🎓 I’m a software developer with a Master's in Computer Science.
-- 👀 I have interests in artificial intelligence, simulation, data viz and data analysis.
-- 🛠️ I'm often building dashboards, APIs and interactive visualizations.
+- 👀 I have interests in genetic algorithms, simulation, data visualisation and analytics.
+- 🛠️ I'm often building dashboards, APIs and interactive visualisations.
 - 💙 Python, Go, TypeScript & Rust
 
 #### Websites
@@ -11,8 +11,8 @@
 - 🟩 Interactive 3D visualiser for arrays:       [array-3d-viz.vercel.app](https://array-3d-viz.vercel.app)
 - ☁️ Digital sky generator:                      [tom-draper.github.io/digital-sky](https://tom-draper.github.io/digital-sky)
 - 🏘️ Pixel city builder:                         [tom-draper.github.io/city-builder](https://tom-draper.github.io/city-builder)
-- 🪙 Settle up:                                    [settleup.vercel.app](https://settleup.vercel.app/)
+- 🪙 Settle up:                                  [settleup.vercel.app](https://settleup.vercel.app/)
 - 📸 Code snippet screenshot builder:            [tom-draper.github.io/code-snippets](https://tom-draper.github.io/code-snippets) 
 - 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app)
-- 🗑️ Visual binary analysis:                       [tom-draper.github.io/visual-binary-analysis](https://tom-draper.github.io/visual-binary-analysis)
+- 🗑️ Visual binary analysis:                     [tom-draper.github.io/visual-binary-analysis](https://tom-draper.github.io/visual-binary-analysis)
 
