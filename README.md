@@ -9,6 +9,7 @@
 - 📈 API Analytics:                              [apianalytics.dev](https://apianalytics.dev)
 - 📊 Premier League football dashboard:          [pldashboard.com](https://pldashboard.com)
 - 🟩 Interactive 3D visualiser for arrays:       [array-3d-viz.vercel.app](https://array-3d-viz.vercel.app)
+- 🤖 AI Tour:                                    [aitour.vercel.app](https://aitour.vercel.app)
 - ☁️ Digital sky generator:                      [tom-draper.github.io/digital-sky](https://tom-draper.github.io/digital-sky)
 - 🏘️ Pixel city builder:                         [tom-draper.github.io/city-builder](https://tom-draper.github.io/city-builder)
 - 🪙 Settle up:                                  [settleup.vercel.app](https://settleup.vercel.app/)
