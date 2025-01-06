@@ -5,15 +5,15 @@
 - 💙 Python, Go, TypeScript & Rust
 
 #### Websites
-- 🌐 Portfolio:                                  <a href="https://tomdraper.dev" target="_blank">tomdraper.dev</a>
-- 📈 API Analytics:                              <a href="https://apianalytics.dev" target="_blank">apianalytics.dev</a>
-- 📊 Premier League football dashboard:          <a href="https://pldashboard.com" target="_blank">pldashboard.com</a>
-- 🟩 Interactive 3D visualiser for arrays:       <a href="https://array-3d-viz.vercel.app" target="_blank">array-3d-viz.vercel.app</a>
-- 🤖 AI Tour:                                    <a href="https://aitour.vercel.app" target="_blank">aitour.vercel.app</a>
-- ☁️ Digital sky generator:                      <a href="https://tom-draper.github.io/digital-sky" target="_blank">tom-draper.github.io/digital-sky</a>
-- 🏘️ Pixel city builder:                         <a href="https://tom-draper.github.io/city-builder" target="_blank">tom-draper.github.io/city-builder</a>
-- 🪙 Settle up:                                  <a href="https://settleup.vercel.app/" target="_blank">settleup.vercel.app</a>
-- 📸 Code snippet screenshot builder:            <a href="https://tom-draper.github.io/code-snippets" target="_blank">tom-draper.github.io/code-snippets</a> 
-- 🔤 Word counter:                               <a href="https://textwordcounter.netlify.app" target="_blank">textwordcounter.netlify.app</a>
-- 🗑️ Visual binary analysis:                     <a href="https://tom-draper.github.io/visual-binary-analysis" target="_blank">tom-draper.github.io/visual-binary-analysis</a>
-- 🥪 ChatBLT:                                    <a href="https://chatblt.vercel.app" target="_blank">chatblt.vercel.app</a>
+- 🌐 Portfolio:                                  [tomdraper.dev](https://tomdraper.dev)
+- 📈 API Analytics:                              [apianalytics.dev](https://apianalytics.dev)
+- 📊 Premier League football dashboard:          [pldashboard.com](https://pldashboard.com)
+- 🟩 Interactive 3D visualiser for arrays:       [array-3d-viz.vercel.app](https://array-3d-viz.vercel.app)
+- 🤖 AI Tour:                                    [aitour.vercel.app](https://aitour.vercel.app)
+- ☁️ Digital sky generator:                      [tom-draper.github.io/digital-sky](https://tom-draper.github.io/digital-sky)
+- 🏘️ Pixel city builder:                         [tom-draper.github.io/city-builder](https://tom-draper.github.io/city-builder)
+- 🪙 Settle up:                                  [settleup.vercel.app](https://settleup.vercel.app/)
+- 📸 Code snippet screenshot builder:            [tom-draper.github.io/code-snippets](https://tom-draper.github.io/code-snippets) 
+- 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app)
+- 🗑️ Visual binary analysis:                     [tom-draper.github.io/visual-binary-analysis](https://tom-draper.github.io/visual-binary-analysis)
+- 🥪 ChatBLT                                     [chatblt.vercel.app](https://chatblt.vercel.app)
