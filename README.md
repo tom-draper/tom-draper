@@ -16,4 +16,5 @@
 - 📸 Code snippet screenshot builder:            [tom-draper.github.io/code-snippets](https://tom-draper.github.io/code-snippets) 
 - 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app)
 - 🗑️ Visual binary analysis:                     [tom-draper.github.io/visual-binary-analysis](https://tom-draper.github.io/visual-binary-analysis)
-- 🥪 ChatBLT                                     [chatblt.vercel.app](https://chatblt.vercel.app)
+- 🥪 ChatBLT:                                     [chatblt.vercel.app](https://chatblt.vercel.app)
+- 🎯 Darts:                                       [dartstracker.vercel.app](https://dartstracker.vercel.app)
