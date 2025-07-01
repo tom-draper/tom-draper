@@ -7,7 +7,7 @@
 #### Websites
 - 🌐 Portfolio:                                  [tomdraper.dev](https://tomdraper.dev)
 - 📈 API Analytics:                              [apianalytics.dev](https://apianalytics.dev)
-- 📈 Nginx Analytics:                            [nginx.apianalytics.dev](https://nginx.apianalytics.dev)
+- 📈 NGINX Analytics:                            [nginx.apianalytics.dev](https://nginx.apianalytics.dev)
 - 📊 Premier League football dashboard:          [pldashboard.com](https://pldashboard.com)
 - 🟩 Interactive 3D visualiser for arrays:       [array-3d-viz.vercel.app](https://array-3d-viz.vercel.app)
 - 🧾 Receiptable API:                            [receiptable.dev](https://receiptable.dev/)
