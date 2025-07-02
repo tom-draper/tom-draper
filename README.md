@@ -9,7 +9,7 @@
 - 📈 API Analytics:                              [apianalytics.dev](https://apianalytics.dev)
 - 📈 NGINX Analytics:                            [nginx.apianalytics.dev](https://nginx.apianalytics.dev)
 - 📊 Premier League football dashboard:          [pldashboard.com](https://pldashboard.com)
-- 🟩 Interactive 3D visualiser for arrays:       [array-3d-viz.vercel.app](https://arrayviz.com)
+- 🟩 Interactive 3D visualiser for arrays:       [arrayviz.com](https://arrayviz.com)
 - 🧾 Receiptable API:                            [receiptable.dev](https://receiptable.dev/)
 - 🤖 AI Tour:                                    [aitour.vercel.app](https://aitour.vercel.app)
 - ☁️ Digital sky generator:                      [tom-draper.github.io/digital-sky](https://tom-draper.github.io/digital-sky)
