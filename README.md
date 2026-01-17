@@ -20,4 +20,4 @@
 - 🔤 Word counter:                               [textwordcounter.netlify.app](https://textwordcounter.netlify.app)
 - 🗑️ Visual binary analysis:                     [tom-draper.github.io/visual-binary-analysis](https://tom-draper.github.io/visual-binary-analysis)
 - 🥪 ChatBLT:                                    [chatblt.vercel.app](https://chatblt.vercel.app)
-- 🎯 Darts Score Tracker:                        [dartstracker.vercel.app](https://dartstracker.vercel.app)
+- 🎯 Darts score tracker:                        [dartstracker.vercel.app](https://dartstracker.vercel.app)
