@@ -6,16 +6,16 @@
 
 #### Websites
 - 🌐 [Portfolio](https://tomdraper.dev)
-- 📈 [API Analytics](https://apianalytics.dev)
-- 📈 [NGINX Analytics](https://nginx.apianalytics.dev)
-- 🗺️ [UK Data Atlas](https://ukdataatlas.com)
-- 📊 [Premier League Dashboard](https://pldashboard.com)
-- 🟩 [Array 3D Viz](https://arrayviz.com)
-- 🧾 [Receiptable API](https://receiptable.dev/)
-- 🤖 [AI Tour](https://aitour.vercel.app)
-- ☁️ [Digital Sky Generator](https://tom-draper.github.io/digital-sky)
-- 🏘️ [Pixel City Builder](https://tom-draper.github.io/city-builder)
-- 🪙 [Settle Up](https://settleup.vercel.app/)
-- 🗑️ [Visual Binary Analysis](https://tom-draper.github.io/visual-binary-analysis)
-- 🥪 [ChatBLT](https://chatblt.vercel.app)
-- 🎯 [Darts Score Tracker](https://dartstracker.vercel.app)
+- 📈 [API Analytics](https://apianalytics.dev) - monitoring and analytics for API frameworks
+- 📈 [NGINX Analytics](https://nginx.apianalytics.dev) - analytics for NGINX web servers
+- 🗺️ [UK Data Atlas](https://ukdataatlas.com) - a powerful mapping platform for UK public data
+- 📊 [Premier League Dashboard](https://pldashboard.com) - a Premier League football dashboard
+- 🟩 [Array 3D Viz](https://arrayviz.com) - an interactive 3D visualizer for arrays and matrices
+- 🧾 [Receiptable API](https://receiptable.dev/) - generate ultra-realistic receipts
+- 🤖 [AI Tour](https://aitour.vercel.app) - an AI generated day out
+- ☁️ [Digital Sky Generator](https://tom-draper.github.io/digital-sky) - a stochastic sky image generator
+- 🏘️ [Pixel City Builder](https://tom-draper.github.io/city-builder) - a web-based pixel city builder game
+- 🪙 [Settle Up](https://settleup.vercel.app/) - quickly settle up money owed
+- 🗑️ [Visual Binary Analysis](https://tom-draper.github.io/visual-binary-analysis) - graphical visual binary analysis
+- 🥪 [ChatBLT](https://chatblt.vercel.app) - find your next sandwich
+- 🎯 [Darts Tracker](https://dartstracker.vercel.app) - a darts score tracker
