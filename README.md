@@ -5,7 +5,7 @@
 - 💙 Python, Go, TypeScript & Rust
 
 #### Websites
-- 🌐 [Portfolio](https://tomdraper.dev) - a showcase for my projects and skills
+- 👋 [Portfolio](https://tomdraper.dev) - a showcase for my projects and skills
 - 📈 [API Analytics](https://apianalytics.dev) - monitoring and analytics for API frameworks
 - 📈 [NGINX Analytics](https://nginx.apianalytics.dev) - analytics for NGINX web servers
 - 🗺️ [UK Data Atlas](https://ukdataatlas.com) - a powerful mapping platform for UK public data
