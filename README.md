@@ -13,7 +13,7 @@
 - 🟩 [Array 3D Viz](https://arrayviz.com) - an interactive 3D visualizer for arrays and matrices
 - 🧾 [Receiptable API](https://receiptable.dev/) - generate ultra-realistic receipts
 - 🤖 [AI Tour](https://aitour.vercel.app) - an AI generated day out
-- ☁️ [Digital Sky Generator](https://tom-draper.github.io/digital-sky) - a stochastic sky image generator
+- ☁️ [Digital Sky Generator](https://tom-draper.github.io/digital-sky) - a hand-designed stochastic sky image generator
 - 🏘️ [Pixel City Builder](https://tom-draper.github.io/city-builder) - a web-based pixel city builder game
 - 🪙 [Settle Up](https://settleup.vercel.app/) - quickly settle up money owed
 - 🗑️ [Visual Binary Analysis](https://tom-draper.github.io/visual-binary-analysis) - graphical visual binary analysis
